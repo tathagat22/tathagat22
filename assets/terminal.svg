@@ -1,0 +1,80 @@
+<svg width="820" height="470" viewBox="0 0 820 470" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15">
+  <defs>
+    <filter id="winShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#a78bfa" flood-opacity="0.18"/>
+    </filter>
+    <linearGradient id="headerLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="t1"><rect x="28" y="60" width="0" height="26" fill="white"><animate attributeName="width" calcMode="discrete" values="0;18;36;54;72;91" begin="0.5s" dur="0.7s" fill="freeze"/></rect></mask>
+    <mask id="t2"><rect x="28" y="112" width="0" height="26" fill="white"><animate attributeName="width" calcMode="discrete" values="0;18;36;54;72;90;108;127" begin="1.9s" dur="0.9s" fill="freeze"/></rect></mask>
+    <mask id="t3"><rect x="28" y="190" width="0" height="26" fill="white"><animate attributeName="width" calcMode="discrete" values="0;24;48;72;96;120;144;167;190" begin="3.7s" dur="1s" fill="freeze"/></rect></mask>
+    <mask id="t4"><rect x="28" y="242" width="0" height="26" fill="white"><animate attributeName="width" calcMode="discrete" values="0;28;56;84;112;140;168;196;224;252;280;308" begin="5.4s" dur="1.3s" fill="freeze"/></rect></mask>
+  </defs>
+
+  <!-- window -->
+  <rect x="10" y="10" width="800" height="450" rx="14" fill="#0b0f17" stroke="#1f2937" stroke-width="1.5" filter="url(#winShadow)"/>
+  <rect x="10" y="10" width="800" height="38" rx="14" fill="#111827"/>
+  <rect x="10" y="34" width="800" height="14" fill="#111827"/>
+  <circle cx="34" cy="29" r="6.5" fill="#ff5f57"/>
+  <circle cx="56" cy="29" r="6.5" fill="#febc2e"/>
+  <circle cx="78" cy="29" r="6.5" fill="#28c840"/>
+  <text x="410" y="34" text-anchor="middle" font-size="12.5" fill="#6b7280">tathagat@cosmos — zsh</text>
+  <rect x="10" y="47" width="800" height="1.5" fill="url(#headerLine)" opacity="0.7"/>
+
+  <g transform="translate(18, 0)">
+    <!-- ❯ whoami -->
+    <g mask="url(#t1)">
+      <text x="28" y="80"><tspan fill="#22d3ee">~ ❯</tspan><tspan fill="#e5e7eb"> whoami</tspan></text>
+    </g>
+    <text x="28" y="106" fill="#9ca3af" opacity="0">tathagat maitray — i build tools that give AI agents hands
+      <animate attributeName="opacity" values="0;1" begin="1.4s" dur="0.25s" fill="freeze"/>
+    </text>
+
+    <!-- ❯ ls ~/ships -->
+    <g mask="url(#t2)">
+      <text x="28" y="132"><tspan fill="#22d3ee">~ ❯</tspan><tspan fill="#e5e7eb"> ls ~/ships</tspan></text>
+    </g>
+    <text x="28" y="158" fill="#7dd3fc" opacity="0">plumb-mcp/    slipstream/    reel/    fruition/
+      <animate attributeName="opacity" values="0;1" begin="3s" dur="0.25s" fill="freeze"/>
+    </text>
+    <text x="28" y="184" fill="#7dd3fc" opacity="0">aura-wallpaper/    dev-file-tags/    boop/    vigil/
+      <animate attributeName="opacity" values="0;1" begin="3.25s" dur="0.25s" fill="freeze"/>
+    </text>
+
+    <!-- ❯ cat ~/.philosophy -->
+    <g mask="url(#t3)">
+      <text x="28" y="210"><tspan fill="#22d3ee">~ ❯</tspan><tspan fill="#e5e7eb"> cat ~/.philosophy</tspan></text>
+    </g>
+    <text x="28" y="236" fill="#f472b6" font-style="italic" opacity="0">"control is illusion. ship anyway."
+      <animate attributeName="opacity" values="0;1" begin="4.9s" dur="0.25s" fill="freeze"/>
+    </text>
+
+    <!-- ❯ systemctl status -->
+    <g mask="url(#t4)">
+      <text x="28" y="262"><tspan fill="#22d3ee">~ ❯</tspan><tspan fill="#e5e7eb"> sudo systemctl status tathagat</tspan></text>
+    </g>
+    <text x="28" y="288" opacity="0"><tspan fill="#4ade80">●</tspan><tspan fill="#e5e7eb"> tathagat.service — </tspan><tspan fill="#4ade80">active (building)</tspan><tspan fill="#e5e7eb"> since 2019</tspan>
+      <animate attributeName="opacity" values="0;1" begin="6.9s" dur="0.25s" fill="freeze"/>
+    </text>
+    <text x="64" y="314" fill="#9ca3af" opacity="0">├─ current: Fruition — giving Claude hands inside FL Studio
+      <animate attributeName="opacity" values="0;1" begin="7.15s" dur="0.25s" fill="freeze"/>
+    </text>
+    <text x="64" y="340" fill="#9ca3af" opacity="0">├─ side-quests: 36 repos and counting
+      <animate attributeName="opacity" values="0;1" begin="7.4s" dur="0.25s" fill="freeze"/>
+    </text>
+    <text x="64" y="366" opacity="0"><tspan fill="#9ca3af">└─ caffeine: </tspan><tspan fill="#fbbf24">████████░░ CRITICAL</tspan>
+      <animate attributeName="opacity" values="0;1" begin="7.65s" dur="0.25s" fill="freeze"/>
+    </text>
+
+    <!-- final prompt + cursor -->
+    <text x="28" y="404" fill="#22d3ee" opacity="0">~ ❯
+      <animate attributeName="opacity" values="0;1" begin="8.1s" dur="0.2s" fill="freeze"/>
+    </text>
+    <rect x="68" y="390" width="10" height="18" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.5;1" dur="1.1s" begin="8.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
