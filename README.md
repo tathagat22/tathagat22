@@ -6,7 +6,6 @@
 
 <img src="assets/terminal.svg" width="92%" alt="terminal intro" />
 
-<img src="assets/eq.svg" width="100%" alt="" />
 
 ## ⚡ Featured Builds
 
@@ -25,7 +24,7 @@
 </tr>
 </table>
 
-<img src="assets/eq.svg" width="100%" alt="" />
+
 
 ## 📊 Signals
 
