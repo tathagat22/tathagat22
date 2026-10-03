@@ -37,10 +37,10 @@
     <g mask="url(#t2)">
       <text x="28" y="132"><tspan fill="#22d3ee">~ ❯</tspan><tspan fill="#e5e7eb"> ls ~/ships</tspan></text>
     </g>
-    <text x="28" y="158" fill="#7dd3fc" opacity="0">plumb-mcp/    slipstream/    reel/    fruition/
+    <text x="28" y="158" fill="#7dd3fc" opacity="0">plumb-mcp/    walkback/    ghostkernel/    slipstream/
       <animate attributeName="opacity" values="0;1" begin="3s" dur="0.25s" fill="freeze"/>
     </text>
-    <text x="28" y="184" fill="#7dd3fc" opacity="0">aura-wallpaper/    dev-file-tags/    boop/    vigil/
+    <text x="28" y="184" fill="#7dd3fc" opacity="0">agl/    reel/    ai-engineering-office/    aura-wallpaper/
       <animate attributeName="opacity" values="0;1" begin="3.25s" dur="0.25s" fill="freeze"/>
     </text>
 
@@ -48,7 +48,7 @@
     <g mask="url(#t3)">
       <text x="28" y="210"><tspan fill="#22d3ee">~ ❯</tspan><tspan fill="#e5e7eb"> cat ~/.philosophy</tspan></text>
     </g>
-    <text x="28" y="236" fill="#f472b6" font-style="italic" opacity="0">"control is illusion. ship anyway."
+    <text x="28" y="236" fill="#f472b6" font-style="italic" opacity="0">"benchmark the claim. ship it. publish the misses too."
       <animate attributeName="opacity" values="0;1" begin="4.9s" dur="0.25s" fill="freeze"/>
     </text>
 
@@ -59,10 +59,10 @@
     <text x="28" y="288" opacity="0"><tspan fill="#4ade80">●</tspan><tspan fill="#e5e7eb"> tathagat.service — </tspan><tspan fill="#4ade80">active (building)</tspan><tspan fill="#e5e7eb"> since 2019</tspan>
       <animate attributeName="opacity" values="0;1" begin="6.9s" dur="0.25s" fill="freeze"/>
     </text>
-    <text x="64" y="314" fill="#9ca3af" opacity="0">├─ current: Fruition — giving Claude hands inside FL Studio
+    <text x="64" y="314" fill="#9ca3af" opacity="0">├─ current: ghostkernel — fewer tokens, not one answer changed
       <animate attributeName="opacity" values="0;1" begin="7.15s" dur="0.25s" fill="freeze"/>
     </text>
-    <text x="64" y="340" fill="#9ca3af" opacity="0">├─ side-quests: 36 repos and counting
+    <text x="64" y="340" fill="#9ca3af" opacity="0">├─ side-quests: 37 public repos and counting
       <animate attributeName="opacity" values="0;1" begin="7.4s" dur="0.25s" fill="freeze"/>
     </text>
     <text x="64" y="366" opacity="0"><tspan fill="#9ca3af">└─ caffeine: </tspan><tspan fill="#fbbf24">████████░░ CRITICAL</tspan>

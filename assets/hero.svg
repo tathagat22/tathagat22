@@ -168,7 +168,7 @@
       <text x="384" y="252" opacity="0">MCP SERVERS FOR AI AGENTS
         <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" dur="15s" repeatCount="indefinite"/>
       </text>
-      <text x="384" y="252" opacity="0">AUDIO ENGINES THAT TALK TO CLAUDE
+      <text x="384" y="252" opacity="0">UNDO BUTTONS FOR AI AGENTS
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.22;0.36;0.39;1" dur="15s" repeatCount="indefinite"/>
       </text>
       <text x="384" y="252" opacity="0">FIGMA → CODE TOOLING

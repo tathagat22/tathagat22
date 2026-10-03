@@ -12,15 +12,19 @@
 <table>
 <tr>
 <td><a href="https://github.com/tathagat22/plumb-mcp"><img src="assets/card-plumb.svg" width="100%" alt="plumb-mcp" /></a></td>
+<td><a href="https://github.com/tathagat22/walkback"><img src="assets/card-walkback.svg" width="100%" alt="walkback" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/tathagat22/ghostkernel"><img src="assets/card-ghostkernel.svg" width="100%" alt="ghostkernel" /></a></td>
 <td><a href="https://github.com/tathagat22/slipstream"><img src="assets/card-slipstream.svg" width="100%" alt="slipstream" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/tathagat22/agl"><img src="assets/card-agl.svg" width="100%" alt="agl" /></a></td>
+<td><a href="https://github.com/tathagat22/ai-engineering-office"><img src="assets/card-office.svg" width="100%" alt="ai-engineering-office" /></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/tathagat22/reel"><img src="assets/card-reel.svg" width="100%" alt="reel" /></a></td>
 <td><a href="https://github.com/tathagat22/aura-wallpaper"><img src="assets/card-aura.svg" width="100%" alt="aura-wallpaper" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/tathagat22/dev-file-tags"><img src="assets/card-devtags.svg" width="100%" alt="dev-file-tags" /></a></td>
-<td><a href="https://github.com/tathagat22/theclockproject-saver"><img src="assets/card-clock.svg" width="100%" alt="theclockproject-saver" /></a></td>
 </tr>
 </table>
 
