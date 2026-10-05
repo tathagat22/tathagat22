@@ -22,8 +22,6 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/tathagat22/tathagat22/output/orbit.svg" width="100%" alt="my repos orbiting a star" />
-
 ## 📊 Signals
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tathagat22&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=22d3ee&icon_color=a78bfa&text_color=8b949e&ring_color=f472b6&include_all_commits=true&count_private=true" alt="GitHub stats" />
