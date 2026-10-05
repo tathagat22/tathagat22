@@ -22,7 +22,7 @@
 </tr>
 </table>
 
-
+<img src="https://raw.githubusercontent.com/tathagat22/tathagat22/output/orbit.svg" width="100%" alt="my repos orbiting a star" />
 
 ## 📊 Signals
 
@@ -30,11 +30,6 @@
 <img height="170" src="https://streak-stats.demolab.com/?user=tathagat22&hide_border=true&background=0b0f17&ring=a78bfa&fire=f472b6&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=22d3ee&sideLabels=8b949e&dates=6b7280" alt="streak" />
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagat22&layout=compact&hide_border=true&bg_color=0b0f17&title_color=22d3ee&text_color=8b949e&langs_count=8" alt="top languages" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tathagat22/tathagat22/output/pacman-contribution-graph-dark.svg" />
-  <img src="https://raw.githubusercontent.com/tathagat22/tathagat22/output/pacman-contribution-graph.svg" width="100%" alt="pac-man eating my contribution graph" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tathagat22/tathagat22/output/github-snake-dark.svg" />
