@@ -1,8 +1,6 @@
-<!-- ✦ you read source code. of course you do. control is illusion. ✦ -->
-
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Tathagat Maitray — Control Is Illusion" />
+<img src="assets/hero.svg" width="100%" alt="Tathagat Maitray" />
 
 <img src="assets/terminal.svg" width="92%" alt="terminal intro" />
 
@@ -15,11 +13,7 @@
 <td><a href="https://github.com/tathagat22/walkback"><img src="assets/card-walkback.svg" width="100%" alt="walkback" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/tathagat22/ghostkernel"><img src="assets/card-ghostkernel.svg" width="100%" alt="ghostkernel" /></a></td>
 <td><a href="https://github.com/tathagat22/slipstream"><img src="assets/card-slipstream.svg" width="100%" alt="slipstream" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/tathagat22/agl"><img src="assets/card-agl.svg" width="100%" alt="agl" /></a></td>
 <td><a href="https://github.com/tathagat22/ai-engineering-office"><img src="assets/card-office.svg" width="100%" alt="ai-engineering-office" /></a></td>
 </tr>
 <tr>
@@ -36,6 +30,11 @@
 <img height="170" src="https://streak-stats.demolab.com/?user=tathagat22&hide_border=true&background=0b0f17&ring=a78bfa&fire=f472b6&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=22d3ee&sideLabels=8b949e&dates=6b7280" alt="streak" />
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagat22&layout=compact&hide_border=true&bg_color=0b0f17&title_color=22d3ee&text_color=8b949e&langs_count=8" alt="top languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tathagat22/tathagat22/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tathagat22/tathagat22/output/pacman-contribution-graph.svg" width="100%" alt="pac-man eating my contribution graph" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tathagat22/tathagat22/output/github-snake-dark.svg" />
