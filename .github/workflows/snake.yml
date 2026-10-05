@@ -21,7 +21,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: abozanona/pacman-contribution-graph@v5.0.0
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: tathagat22
           games: pacman
